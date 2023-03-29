@@ -1,0 +1,1 @@
+auth_token = "YOUR_AUTH_TOEKN" ## Generate yours from here: https://huggingface.co/settings/tokens
